@@ -1,1 +1,1 @@
-./images/01.jpg
+/content/D2-net/images/01.jpg
